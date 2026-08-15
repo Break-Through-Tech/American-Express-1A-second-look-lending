@@ -128,7 +128,8 @@ The following resources will help your team understand the problem space and pot
 ## 🤝 How We'll Work Together
 
 **Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
-
+ Preferred Mode of Communication : EMAIL ( saurabh.gupta13@aexp.com or algoexpert.saurabh@gmail.com
+ Typically Respond With in 24-48 hrs 
  **Other ways to reach out to me with questions:** 
 * [e.g., Your team's channel within Break Through Tech’s Discord space]
 * [e.g., Email; please copy your teammates and AI Studio Coach]
@@ -138,8 +139,8 @@ The following resources will help your team understand the problem space and pot
 > 💡 **Challenge Advisor: Please update the above based on your availability and preference. If you are not able to answer questions or meet with fellows outside of the biweekly Lab Section check-ins, simply write in "N/A (only available during the official check-in times)"**
 
 **Recommended free coding / collaboration tools**
-* […]
-* […]
+* Google Colab
+* VS CODE 
 
 ---
 
