@@ -55,6 +55,8 @@ American Express is a globally integrated payments company that provides custome
 ## 🎯 The Challenge
 ### Project Summary
 In this project, you will use synthetic consumer-loan data and classical ML logistic regression, random forests, and gradient boosting to predict each applicant's default risk and convert it into a profit-aware, fair lending decision that better serves applicants with little credit history. This will help the company address making credit decisions that maximize profit while extending fair access to underserved borrowers.
+- Look for More Details here
+- https://docs.google.com/presentation/d/1M2VaMNXbUiA_RR0YYfVhTT88Jx19B48C/edit?slide=id.p1#slide=id.p1
 
 ### Success Criteria
 Evaluation has two levels, both computed on a time-based, held-out test set used only once. 
