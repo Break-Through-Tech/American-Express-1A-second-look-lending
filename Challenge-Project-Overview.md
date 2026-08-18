@@ -120,6 +120,10 @@ The following resources will help your team understand the problem space and pot
 - Streamlit Documentation & Quickstart
 - Scikit-Learn Tabular Classification Examples
 - Credit Risk Modeling in Python Overview
+- https://aman.ai/primers/ai/evaluation-metrics/
+- https://towardsai.com/p/l/machine-learning-project-in-python-step-by-step-loan-defaulters-prediction
+  
+  
 
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
