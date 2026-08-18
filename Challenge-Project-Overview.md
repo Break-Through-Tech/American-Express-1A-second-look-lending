@@ -102,7 +102,8 @@ Use these milestones to guide your work. Your team will create a GitHub Projects
 - scikit-learn (GridSearchCV / RandomizedSearchCV for hyperparameter tuning)
 
 **Evaluation Metrics:**
-- [e.g., Accuracy, Precision/Recall, RMSE, BLEU score]
+- Model Quality: ROC-AUC, LogLoss, Calibration Check (Reliability Curve & Brier Score)
+- Decision Quality: Expected Portfolio Profit, Thin-File Inclusion Gap, Inclusive Profit Score
   
 ---
 
