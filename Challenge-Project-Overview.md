@@ -95,7 +95,11 @@ Use these milestones to guide your work. Your team will create a GitHub Projects
 **ML Problem Type:**  Classification, Clustering, Recommendation Systems, Deep Learning / Neural Networks  
 
 **Recommended Libraries:**
-- [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
+- pandas, numpy (Data manipulation & feature engineering)
+- scikit-learn (Baseline models, calibration, evaluation metrics)
+- xgboost, lightgbm, catboost (Gradient boosted decision trees)
+- streamlit (Frontend application dashboard)
+- scikit-learn (GridSearchCV / RandomizedSearchCV for hyperparameter tuning)
 
 **Evaluation Metrics:**
 - [e.g., Accuracy, Precision/Recall, RMSE, BLEU score]
@@ -107,19 +111,15 @@ Use these milestones to guide your work. Your team will create a GitHub Projects
 The following resources will help your team understand the problem space and potential technical approaches for this project:
 
 **Background Reading:**
-- [e.g., Link to an article or blog post about the problem domain]
-- [e.g., Link to an industry report or case study]
+- CFPB Guidance on Algorithmic Credit Scoring & Fairness
+- American Express Company Overview & Credit Risk Principles
 
 **Technical Tutorials:**
-- [e.g., Link to a free tutorial on the ML technique(s) involved]
-- [e.g., Link to documentation for a key library or tool]
+- Scikit-Learn Probability Calibration Guide
+- Streamlit Documentation & Quickstart
+- Scikit-Learn Tabular Classification Examples
+- Credit Risk Modeling in Python Overview
 
-**Code Examples:**
-- [e.g., Link to a relevant GitHub repo]
-- [e.g., Link to a sample implementation or starter code]
-
-**Other:**
-- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
 
